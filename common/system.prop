@@ -3,3 +3,4 @@
 # ro.sf.lcd_density=320
 
 ro.se.type=eSE,HCE,UICC
+ro.build.fingerprint=Xiaomi/sagit/sagit:8.0.0/OPR1.170623.027/V9.2.3.0.OCAMIEK:user/release-keys
