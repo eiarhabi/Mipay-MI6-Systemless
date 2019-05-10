@@ -1,7 +1,7 @@
 id=MIPay_eiarhabi
 name=MIUI Global MIPay Support (arm64) by eiarhabi
-version=8.12.13.1
-versionCode=20181219
+version=9.5.9
+versionCode=20190510
 author=eiarhabi
 description=Enable MIUI global support by adding China Version Mi Pay. Based on Viso-TC's mod.
 minMagisk=17000
